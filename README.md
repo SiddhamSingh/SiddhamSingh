@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently Persuing my Higher Education in ComputerScience Engineering.
 - 🌱 I’m currently learning Python.
-- 🤔 I’m looking for help with Big Data
-- 📫 How to reach me:siddhamrao2002@gmail.com
-- ⚡ Fun fact: I am a *||Gamer||* 
+- 🤔 I’m looking for help with Big Data.
+- 📫 How to reach me:siddhamrao2002@gmail.com.
+- ⚡ Fun fact: I am a *||Gamer||* .
 -->
