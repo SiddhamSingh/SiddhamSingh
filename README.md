@@ -4,15 +4,11 @@
 - 🤔 I’m looking for help with Big Data.
 - 📫 How to reach me:siddhamrao2002@gmail.com.
 - ⚡ Fun fact: I am a *||Gamer||* .
+<br/>
 
-<!--
-**SiddhamSingh/SiddhamSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently Persuing my Higher Education in ComputerScience Engineering.
-- 🌱 I’m currently learning Python.
-- 🤔 I’m looking for help with Big Data.
-- 📫 How to reach me:siddhamrao2002@gmail.com.
-- ⚡ Fun fact: I am a *||Gamer||* .
--->
+<p align="center">
+<a href="https://www.linkedin.com/in/siddhamsingh/"><img alt="LinkedIn" src="#"></a>
+<a href="https://www.instagram.com/raosiddham2002/"><img alt="Instagram" src="#"></a>
+</p>
